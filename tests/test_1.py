@@ -5,4 +5,4 @@ def test_hello1():
 
 
 def test_hello2():
-    assert hello("me") == "Hello me"
+    assert hello("world") == "Hello World!"
